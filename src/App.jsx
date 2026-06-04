@@ -1,4 +1,4 @@
-import Navbar from './components/Navbar';
+import NavBar from './components/NavBar';
 import Hero from './components/Hero';
 import About from './components/About';
 import Ritual from './components/Ritual';
@@ -19,7 +19,7 @@ import Footer from './components/Footer';
 export default function App() {
   return (
     <main className="min-h-screen">
-      <Navbar />
+      <NavBar />
       <Hero />
       <About />
       <Ritual />

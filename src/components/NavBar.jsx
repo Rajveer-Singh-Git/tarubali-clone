@@ -5,7 +5,7 @@ import { useGSAP } from '@gsap/react';
 
 gsap.registerPlugin(ScrollTrigger);
 
-export default function Navbar() {
+export default function NavBar() {
     const [isScrolled, setIsScrolled] = useState(false);
 
     const navRef = useRef(null);
