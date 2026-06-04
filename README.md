@@ -169,7 +169,7 @@ To get the project running on your local machine, follow these steps:
 
 1.  **Clone the files:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Rajveer-Singh-Git/tarubali-clone.git
     cd tarubali-clone
     ```
 
